@@ -14,7 +14,7 @@ import {
 
 const isBirthday = () => {
     const today = new Date();
-    return today.getMonth() === 8 && today.getDate() === 13; // October is month 9 (0-indexed)
+    return today.getMonth() === 9 && today.getDate() === 5;
 };
 
 const artworks = [
