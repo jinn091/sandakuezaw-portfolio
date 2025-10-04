@@ -22,7 +22,7 @@ const artworks = [
         title: "Ethereal Landscapes",
         image: "/artworks/artwork-1.jpg",
         description:
-            "A serene collection exploring the intersection of nature and dreams.",
+            "A serene and captivating collection exploring the delicate intersection of nature, dreams, and imagination.",
         category: "Digital Art",
         year: "2024",
     },
@@ -46,7 +46,7 @@ const artworks = [
         title: "The Occupants",
         image: "/artworks/artwork-4.jpg",
         description:
-            "A chilling movie poster showing a glowing house under a dark sky, watched by a giant, unblinking eye — hinting at a science experiment gone wrong and something sinister that’s always watching.",
+            "A chilling movie poster showing a glowing house under a dark sky, watched by a giant, unblinking eye — hinting at something sinister that’s always watching.",
         category: "Digital Art",
         year: "2023",
     },
