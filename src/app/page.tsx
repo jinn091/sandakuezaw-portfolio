@@ -27,25 +27,26 @@ const artworks = [
         year: "2024",
     },
     {
-        title: "Urban Serenity",
+        title: "The Enchantress of Light",
         image: "/artworks/artwork-2.jpg",
-        description: "Finding peace within the chaos of modern city life.",
+        description:
+            "A woman bathed in mystical light gazes upward as glowing green and blue orbs swirl around her, giving her an ethereal, otherworldly aura.",
         category: "Digital Art",
         year: "2024",
     },
     {
-        title: "Botanical Whispers",
+        title: "Beyond the Frame",
         image: "/artworks/artwork-3.jpg",
         description:
-            "Delicate studies of flora in their natural habitat. Nature's quiet beauty.",
+            "A mysterious figure emerges from a golden frame, reaching out with lifelike hands as if breaking free from the artwork into reality.",
         category: "Digital Art",
         year: "2023",
     },
     {
-        title: "Occupations",
+        title: "The Occupants",
         image: "/artworks/artwork-4.jpg",
         description:
-            "Delicate studies of flora in their natural habitat. Nature's quiet beauty.",
+            "A chilling movie poster showing a glowing house under a dark sky, watched by a giant, unblinking eye — hinting at a science experiment gone wrong and something sinister that’s always watching.",
         category: "Digital Art",
         year: "2023",
     },
@@ -53,15 +54,15 @@ const artworks = [
         title: "Spanish Villa",
         image: "/artworks/artwork-5.jpg",
         description:
-            "Delicate studies of flora in their natural habitat. Nature's quiet beauty.",
+            "A suspenseful film poster showing a group of intense faces above a sunlit Spanish town, hinting at hidden motives and a dark secret lurking behind the villa’s beauty.",
         category: "Digital Art",
         year: "2023",
     },
     {
-        title: "SHATTER",
+        title: "Shatter",
         image: "/artworks/artwork-6.jpg",
         description:
-            "Delicate studies of flora in their natural habitat. Nature's quiet beauty.",
+            "A sleek, futuristic title design with glowing blue light and fractured text, hinting at a digital world on the brink of collapse — “coming soon to a computer near you.”",
         category: "Digital Art",
         year: "2023",
     },
